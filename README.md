@@ -11,31 +11,43 @@ With AI integration, users can enhance their blogging experience, while admins h
 
 🏠 Home Page – Explore latest blogs and trending content.
 
+
 ✍️ Blog Posting – Users can create and publish blogs with rich-text formatting.
+
 
 💬 Comments – Read and post comments on blogs.
 
+
 🔍 Search & Filter – Search for blogs by title, keywords, or categories.
+
 
 👤 Admin Login – Secure login for admins to access the dashboard.
 
+
 ⚙️ Admin Dashboard – Manage platform with four main sections:
 
-Main Dashboard
+ - Main Dashboard
 
-Add Blog
+ - Add Blog
 
-Blog List
+ - Blog List
 
-Comments List
+ - Comments List
+
 
 🤖 AI Integration – Utilize Gemini AI for content suggestions and enhancements.
 
+
 🖼️ Image Processing – Upload and optimize images using Imagekit.
+
 
 👤 User Authentication – Secure login and registration using JWT.
 
+
 📱 Responsive Design – Works perfectly on desktop and mobile devices.
+
+
+
 
 🛠️ Tech Stack
 
